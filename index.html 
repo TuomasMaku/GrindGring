@@ -1,0 +1,4 @@
+<script type="module">
+  import './app.js';
+</script>
+<!-- Garde tout ton HTML existant, juste changer les events pour pointer les bons handlers -->
